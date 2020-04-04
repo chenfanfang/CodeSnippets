@@ -18,9 +18,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>textField代理的分割线</string>
+	<string>Objective-C 分割线-UITextFieldDelegate</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>textField代理的分割线</string>
+	<string>Objective-C 分割线-UITextFieldDelegate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

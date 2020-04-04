@@ -3,27 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>fgxpragma</string>
+	<string>fgxhttps</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//=================================================================
-//                           &lt;#name#&gt;
-//=================================================================
-#pragma mark - &lt;#name#&gt;</string>
+	<string>    //=================================================================
+    //                             网络
+    //=================================================================
+    // MARK: - 网络</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>10F6B03C-3D54-459B-8F68-C9D006288D47</string>
+	<string>55055D47-63EC-477F-B737-A168CDC7B587</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Objective-C 分割线-pragma</string>
+	<string>Swift 分割线-网络请求</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Objective-C 分割线-pragma</string>
+	<string>Swift 分割线-网络请求</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

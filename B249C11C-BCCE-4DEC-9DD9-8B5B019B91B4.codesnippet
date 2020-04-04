@@ -18,9 +18,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>UITableViewDataSource分割线</string>
+	<string>Objective-C 分割线-UITableViewDataSource</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>UITableViewDataSource分割线</string>
+	<string>Objective-C 分割线-UITableViewDataSource</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

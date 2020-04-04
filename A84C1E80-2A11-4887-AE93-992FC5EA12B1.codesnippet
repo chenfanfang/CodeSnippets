@@ -3,26 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>cffend</string>
+	<string>fgxFieldDelegate</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//=================
-    //   cff - end
-    //=================</string>
+	<string>    //=================================================================
+    //                     UITextFieldDelegate
+    //=================================================================
+    // MARK: - UITextFieldDelegate</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>8828D532-6512-4BF3-BD77-BF6A1ED68759</string>
+	<string>A84C1E80-2A11-4887-AE93-992FC5EA12B1</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>我的代码插入标记 - end</string>
+	<string>Swift 分割线-UITextFieldDelegate</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>我的代码插入标记 - end</string>
+	<string>Swift 分割线-UITextFieldDelegate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

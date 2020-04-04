@@ -15,9 +15,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>staticCellID</string>
+	<string>Objective-C staticCellID 创建静态CellID</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>staticCellID</string>
+	<string>Objective-C staticCellID</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

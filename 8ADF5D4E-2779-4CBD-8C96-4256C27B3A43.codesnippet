@@ -3,27 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>fgxpragma</string>
+	<string>fgxAlert</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//=================================================================
-//                           &lt;#name#&gt;
-//=================================================================
-#pragma mark - &lt;#name#&gt;</string>
+	<string>    //=================================================================
+    //                      UIAlertViewDelegate
+    //=================================================================
+    // MARK: - UIAlertViewDelegate</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>10F6B03C-3D54-459B-8F68-C9D006288D47</string>
+	<string>8ADF5D4E-2779-4CBD-8C96-4256C27B3A43</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Objective-C 分割线-pragma</string>
+	<string>Swift 分割线-UIAlertViewDelegate</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Objective-C 分割线-pragma</string>
+	<string>Swift 分割线-UIAlertViewDelegate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

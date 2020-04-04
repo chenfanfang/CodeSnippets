@@ -3,27 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>CanAvoidCrashMethod</string>
+	<string>fgxljz</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**
- *  Can avoid crash method
- *
- *
- *
- */</string>
+	<string>    //=================================================================
+    //                            懒加载
+    //=================================================================
+    // MARK: - 懒加载</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6CBA63B4-FE5C-417C-89D7-CA1E1481FFD4</string>
+	<string>5F485366-EA33-4F74-899A-94F2AE47117F</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Swift 分割线-懒加载</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Can avoid crash Method</string>
+	<string>Swift 分割线-懒加载</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

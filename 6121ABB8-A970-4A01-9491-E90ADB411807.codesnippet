@@ -3,25 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>neigoucl</string>
+	<string>fgxother</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/**********************内购处理begin*************************/
-/**********************内购处理end***************************/</string>
+	<string>    //=================================================================
+    //                           other
+    //=================================================================
+    // MARK: - other</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9929D17E-6D54-44CD-93ED-1D566C1997AF</string>
+	<string>6121ABB8-A970-4A01-9491-E90ADB411807</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>内购处理</string>
+	<string>Swift 分割线-其他</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>内购处理</string>
+	<string>Swift 分割线-其他</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

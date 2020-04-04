@@ -18,9 +18,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>set方法分割线</string>
+	<string>Objective-C 分割线-set方法</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>set方法分割线</string>
+	<string>Objective-C 分割线-set方法</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -15,9 +15,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>单行结尾的注释</string>
+	<string>Objective-C 单行结尾的注释</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>单行结尾的注释</string>
+	<string>Objective-C 单行结尾的注释</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

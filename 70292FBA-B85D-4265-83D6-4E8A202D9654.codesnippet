@@ -3,26 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>dispatchamain</string>
+	<string>fgxScrollViewDelegate</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dispatch_async(dispatch_get_main_queue(), ^{
-                    
-                });</string>
+	<string>    //=================================================================
+    //                     UIScrollViewDelegate
+    //=================================================================
+    // MARK: - UIScrollViewDelegate</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>A8071973-C259-4148-85BF-E3C4C7ECF3C3</string>
+	<string>70292FBA-B85D-4265-83D6-4E8A202D9654</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>主线程</string>
+	<string>Swift 分割线-UIScrollViewDelegate</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>主线程</string>
+	<string>Swift 分割线-UIScrollViewDelegate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

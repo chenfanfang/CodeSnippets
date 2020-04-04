@@ -15,8 +15,10 @@
 	<string>B13B8BAC-A385-4B1A-90C5-C1148B87090B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Objective-C 属性weak</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>weak</string>
+	<string>Objective-C 属性weak</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

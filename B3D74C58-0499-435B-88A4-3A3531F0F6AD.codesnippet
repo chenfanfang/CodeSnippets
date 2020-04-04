@@ -16,8 +16,10 @@
 	<string>B3D74C58-0499-435B-88A4-3A3531F0F6AD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Objective-C 短分割线</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>短分割线</string>
+	<string>Objective-C 短分割线</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

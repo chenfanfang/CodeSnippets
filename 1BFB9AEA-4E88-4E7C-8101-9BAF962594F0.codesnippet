@@ -3,27 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>fgxpragma</string>
+	<string>fgxmark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//=================================================================
-//                           &lt;#name#&gt;
-//=================================================================
-#pragma mark - &lt;#name#&gt;</string>
+	<string>    //=================================================================
+    //                              &lt;#注释#&gt;
+    //=================================================================
+    // MARK: - &lt;#注释#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>10F6B03C-3D54-459B-8F68-C9D006288D47</string>
+	<string>1BFB9AEA-4E88-4E7C-8101-9BAF962594F0</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Objective-C 分割线-pragma</string>
+	<string>Swift 分割线+Mark</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Objective-C 分割线-pragma</string>
+	<string>Swift 分割线+Mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

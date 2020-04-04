@@ -19,9 +19,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>mjReplace</string>
+	<string>Objective-C mjReplace MJExtention 数据转模型，属性映射的处理</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mjReplace</string>
+	<string>Objective-C mjReplace</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
