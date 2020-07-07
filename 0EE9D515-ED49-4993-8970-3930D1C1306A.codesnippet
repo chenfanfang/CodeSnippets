@@ -3,21 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zs</string>
+	<string>ThemeColorConfig</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/** &lt;#注释#&gt; */</string>
+	<string>/// 使用场景 &lt;#使用场景#&gt;
+static var &lt;#colorName#&gt;: UIColor { ["&lt;#亮色主题颜色#&gt;", "&lt;#暗色主题颜色#&gt;"].themeColor() }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1B8EFC7E-7640-457C-A05A-EC6A154F9632</string>
+	<string>0EE9D515-ED49-4993-8970-3930D1C1306A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Swift 注释</string>
+	<string>Swift ThemeColorConfig</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift 注释</string>
+	<string>Swift ThemeColorConfig</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

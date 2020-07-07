@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zs</string>
+	<string>linkDisable</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/** &lt;#注释#&gt; */</string>
+	<string>//swiftlint:disable &lt;#xxxxxx#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1B8EFC7E-7640-457C-A05A-EC6A154F9632</string>
+	<string>41EE7849-4843-46BE-B5F4-A32BC15DF6D5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Swift 注释</string>
+	<string>Swift Link-Disable</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift 注释</string>
+	<string>Swift Link-Disable</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

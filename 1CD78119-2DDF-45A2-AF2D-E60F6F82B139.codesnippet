@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>zs</string>
+	<string>todo</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/** &lt;#注释#&gt; */</string>
+	<string>//TODO: &lt;#todo#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1B8EFC7E-7640-457C-A05A-EC6A154F9632</string>
+	<string>1CD78119-2DDF-45A2-AF2D-E60F6F82B139</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Swift 注释</string>
+	<string>Swift todo</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift 注释</string>
+	<string>Swift todo</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>fgxTableViewDatasourceCode</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>//=================================================================
+//                     UITableViewDataSource
+//=================================================================
+// MARK: - UITableViewDataSource
+extension &lt;#class#&gt; {
+    func numberOfSections(in tableView: UITableView) -&gt; Int {
+        return &lt;#number#&gt;
+    }
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -&gt; Int {
+        return &lt;#number#&gt;
+    }
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -&gt; UITableViewCell {
+        var returnCell: UITableViewCell!
+        &lt;#toDo#&gt;
+        return returnCell
+    }
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>821CD466-F0E2-4014-8FFD-DBDA5CE95B8C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>swift 分割线-UITableViewDataSource 代码块</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>swift 分割线-UITableViewDataSource 代码块</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

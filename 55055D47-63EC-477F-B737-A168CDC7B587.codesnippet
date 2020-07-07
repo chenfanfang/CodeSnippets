@@ -10,9 +10,9 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>    //=================================================================
-    //                             网络
+    //                          Https Request
     //=================================================================
-    // MARK: - 网络</string>
+    // MARK: - Https Request</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>55055D47-63EC-477F-B737-A168CDC7B587</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -24,6 +24,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
