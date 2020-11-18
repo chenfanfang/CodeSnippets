@@ -3,21 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>swiftiphone</string>
+	<string>swiftquery</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#if !targetEnvironment(simulator)</string>
+	<string>    /// &lt;#函数注释#&gt;
+    static func query&lt;#请求什么#&gt;(holder: AnyObject?, handler: @escaping (EDResponseData) -&gt; Void) {
+        let apiModel = &lt;#apiModel#&gt;()
+        EDNetworkClient.request(apiModel: apiModel.requestModel, holder: holder, handler: handler)
+    }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>462D9242-3EBC-4FAA-BBDA-B8CC44978CDA</string>
+	<string>146FB07B-D16E-4DA8-B0F4-682ACAF65909</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Swift-iphone 真机条件编译</string>
+	<string>Swift query</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift-iphone 真机条件编译</string>
+	<string>Swift query</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

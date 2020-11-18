@@ -3,21 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>swiftiphone</string>
+	<string>swiftNetResponse</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#if !targetEnvironment(simulator)</string>
+	<string>if responseData.errorCode != nil {
+                EDToast.show(waitViewHideLoading: self.view, message: responseData.message)
+                return
+            }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>462D9242-3EBC-4FAA-BBDA-B8CC44978CDA</string>
+	<string>05118B70-8FEC-4BA5-98DD-03255D646E0F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Swift-iphone 真机条件编译</string>
+	<string>Swift 处理请求返回的数据</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift-iphone 真机条件编译</string>
+	<string>Swift 处理请求返回的数据</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,21 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>swiftiphone</string>
+	<string>fgxoverride</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#if !targetEnvironment(simulator)</string>
+	<string>    //=================================================================
+    //                         override
+    //=================================================================
+    // MARK: - override</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>462D9242-3EBC-4FAA-BBDA-B8CC44978CDA</string>
+	<string>82B61335-8995-4F93-9AC1-D22236E5B35C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Swift-iphone 真机条件编译</string>
+	<string>Swift 分割线-override</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift-iphone 真机条件编译</string>
+	<string>Swift 分割线-override</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
