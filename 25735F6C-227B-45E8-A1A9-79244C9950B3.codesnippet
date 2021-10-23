@@ -3,31 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lazyTableView</string>
+	<string>fgxibaction</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    private lazy var tableView: UITableView = {
-        let tableView = UITableView()
-        tableView.separatorStyle = .none
-        tableView.dataSource = self
-        tableView.delegate = self
-        tableView.register(nibWithCellClass: &lt;#EDFansAndFollowCell#&gt;.self)
-        return tableView
-    }()</string>
+	<string>//=================================================================
+//                          IBAction
+//=================================================================
+#pragma mark - IBAction</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F8B1A911-9071-4746-8821-6E5FC64F1B8F</string>
+	<string>25735F6C-227B-45E8-A1A9-79244C9950B3</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>lazyTableView</string>
+	<string>Objective-C 分割线-IBAction</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>lazyTableView</string>
+	<string>Objective-C 分割线-IBAction</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
