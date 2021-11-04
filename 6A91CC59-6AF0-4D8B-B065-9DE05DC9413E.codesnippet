@@ -3,27 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>fgxibaction</string>
+	<string>varoption</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//=================================================================
-//                          IBAction
-//=================================================================
-#pragma mark - IBAction</string>
+	<string>var &lt;#属性#&gt;: &lt;#类型#&gt;?</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>25735F6C-227B-45E8-A1A9-79244C9950B3</string>
+	<string>6A91CC59-6AF0-4D8B-B065-9DE05DC9413E</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Objective-C 分割线-IBAction</string>
+	<string>Swift var可选</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Objective-C 分割线-IBAction</string>
+	<string>Swift var可选</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
