@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>zjlj</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>//====================================================================================================
+//                                      属性解析拦截开始
+//====================================================================================================
+
+
+/// 需要拦截的代码字符串
+let codeString: String =
+"""
+&lt;#code#&gt;
+"""
+/// 需要拦截的文件名，如果忽略文件名，则传nil
+let ljFileName: String? = &lt;#swiftName#&gt;
+if let ljFileName = ljFileName, let path: Path, ljFileName.isEmpty == false, ljFileName == path.fileName {
+    if codeString.contains(self.getNodeString(node: &lt;#node#&gt;)) {
+        print("\n\n=============================================================拦截解析")
+        print(self.getNodeString(node: property_declaration_node))
+        print("\n\n")
+    }
+}
+//====================================================================================================
+//====================================================================================================</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7A5CD87B-B4F8-4F8A-A3CC-D5EC9851BBB0</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Swift 代码解析断点拦截</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift 代码解析断点拦截</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

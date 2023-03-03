@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>///&lt;RESULT&gt;=[&lt;#name#&gt;:  &lt;#Type#&gt;, &lt;#name#&gt;: &lt;#Type#&gt;]</string>
+	<string>///&lt;RESULT&gt;=[&lt;#name#&gt;: &lt;#Type#&gt;, &lt;#name#&gt;: &lt;#Type#&gt;]</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0A6CC597-0D3F-467D-9EA9-632E2F474AEC</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -21,6 +21,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
